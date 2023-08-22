@@ -29,7 +29,7 @@ public class C09_JsonObject {
                                             "checkout" : "2021-06-10"
                                              },
                             "additionalneeds" : "wi-fi"
-                        }
+                            }
      */
     /*
     to create req body we will create JSON Object, but this one has inner objects so we need to create an inner Json object
